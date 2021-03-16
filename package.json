@@ -22,12 +22,12 @@
     "tv4-formats": "^2.2.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "4.3.4",
     "eslint": "^3.3.0",
     "eslint-config-cti": "^1.0.2",
-    "mocha": "^3.0.2",
+    "mocha": "8.3.2",
     "restify": "^8.5.1",
-    "sinon": "^1.17.3"
+    "sinon": "9.2.4"
   },
   "peerDependencies": {
     "restify": "^8.5.1"
