@@ -1,9 +1,8 @@
 {
-  "name": "restify-json-schema-validation-middleware",
+  "name": "@colliers-international/restify-json-schema-validation-middleware",
   "version": "2.1.0",
   "description": "Middleware to validate incoming requests using json schema and respond with restify error",
   "main": "index.js",
-  "repository": "https://github.com/CanTireInnovations/restify-json-schema-validation-middleware",
   "scripts": {
     "ci": "npm run lint && npm test",
     "lint": "eslint .",
